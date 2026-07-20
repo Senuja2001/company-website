@@ -148,7 +148,7 @@ const TeamPage: React.FC = () => {
     <div className="w-full min-h-screen bg-white">
       <Navbar />
 
-      <div className="relative w-full min-h-[60vh] sm:min-h-[80vh] md:min-h-[100vh] lg:min-h-[120vh] overflow-hidden">
+      <div className="relative w-full min-h-[60vh] sm:min-h-[80vh] md:min-h-screen lg:min-h-[120vh] overflow-hidden">
         <img
           src={teamHero}
           alt="Team"
@@ -235,7 +235,7 @@ const TeamPage: React.FC = () => {
           </div>
         </div>
 
-        <section className="relative w-full h-[400px] md:h-[430px] overflow-hidden">
+        <section className="relative w-full h-100 md:h-107.5 overflow-hidden">
           <video
             autoPlay muted loop playsInline
             className="absolute inset-0 w-full h-full object-cover"
