@@ -7,7 +7,6 @@ import teamHero from "../assets/team-hero.png";
 // Leadership images
 import tharinduImg       from "../assets/tharindu.jpg";
 import sahanImg          from "../assets/Sahan.jpg";
-import imathImg          from "../assets/imath.jpg";
 
 // Team Lead images
 import nishithaImg       from "../assets/QA-Lead.jpeg";
@@ -72,13 +71,6 @@ const members: Member[] = [
     name: "Sahan Abeysinghe",     
     role: "CTO",             
     image: sahanImg,
-    category: "Leadership" 
-  },
-  { 
-    id: 3, 
-    name: "Imath De Silva",       
-    role: "Director",             
-    image: imathImg,
     category: "Leadership" 
   },
   { 
