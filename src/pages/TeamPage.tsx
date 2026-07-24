@@ -9,10 +9,10 @@ import tharinduImg       from "../assets/tharindu.jpg";
 import sahanImg          from "../assets/Sahan.jpg";
 
 // Team Lead images
-import nishithaImg       from "../assets/QA-Lead.jpeg";
+import hasiniImg       from "../assets/QA-Lead.jpeg";
 import aiLeadImg         from "../assets/AI-Lead.jpeg";
 import backendLeadImg    from "../assets/Backend-Lead.jpeg";
-import frontendWebImg    from "../assets/Frontend-Web.jpeg";
+import frontendWebImg    from "../assets/Frontend-Web.jpg";
 import frontendMobileImg from "../assets/Frontend-Mobile.jpeg";
 const marketingLeadImg = "https://randomuser.me/api/portraits/women/45.jpg";
 import rdLeadImg         from "../assets/R&D-Lead.jpeg";
@@ -69,7 +69,7 @@ const members: Member[] = [
   { 
     id: 2, 
     name: "Sahan Abeysinghe",     
-    role: "CTO",             
+    role: "Chief Technical Officer (CTO)",             
     image: sahanImg,
     category: "Leadership" 
   },
@@ -89,7 +89,7 @@ const members: Member[] = [
   },
   { 
     id: 6, 
-    name: "Dilmi Kavishka",       
+    name: "Supuni Madushani",       
     role: "Frontend Web",    
     image: frontendWebImg,
     category: "Team Leads" 
@@ -117,14 +117,14 @@ const members: Member[] = [
   },
   { 
     id: 10, 
-    name: "Nishitha Nishadi",     
+    name: "Hasini Kavindi",     
     role: "QA",              
-    image: nishithaImg,                 
+    image: hasiniImg,                 
     category: "Team Leads" 
   },
   { 
     id: 11, 
-    name: "Sasun Madhuranga",              
+    name: "Damean Chamod",              
     role: "AI & ML",              
     image: aiLeadImg,                  
     category: "Team Leads" 
