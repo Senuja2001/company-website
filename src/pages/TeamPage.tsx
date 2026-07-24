@@ -9,7 +9,7 @@ import tharinduImg       from "../assets/tharindu.jpg";
 import sahanImg          from "../assets/Sahan.jpg";
 
 // Team Lead images
-import JayathiImg        from "../assets/UI-UX-Lead.jpeg";
+import JayathiImg        from "../assets/UI-UX-Lead.png";
 import hasiniImg       from "../assets/QA-Lead.jpeg";
 import aiLeadImg         from "../assets/AI-Lead.jpeg";
 import backendLeadImg    from "../assets/Backend-Lead.jpeg";
