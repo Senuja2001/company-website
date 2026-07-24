@@ -9,6 +9,7 @@ import tharinduImg       from "../assets/tharindu.jpg";
 import sahanImg          from "../assets/Sahan.jpg";
 
 // Team Lead images
+import JayathiImg        from "../assets/UI-UX-Lead.jpeg";
 import hasiniImg       from "../assets/QA-Lead.jpeg";
 import aiLeadImg         from "../assets/AI-Lead.jpeg";
 import backendLeadImg    from "../assets/Backend-Lead.jpeg";
@@ -75,9 +76,9 @@ const members: Member[] = [
   },
   { 
     id: 4, 
-    name: "Dinithi Gamage",       
+    name: "Jayathi Baddewatta",       
     role: "UI/UX",           
-    image: "https://randomuser.me/api/portraits/women/44.jpg", 
+    image: JayathiImg, 
     category: "Team Leads" 
   },
   { 
